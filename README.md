@@ -1,3 +1,3 @@
 # exercise-repo
 
-Confict is back.
+The Conflict is resolved. Again!

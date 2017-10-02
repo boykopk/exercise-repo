@@ -1,3 +1,3 @@
 # exercise-repo
 
-Confict is resolved.
+Confict is no resolved.

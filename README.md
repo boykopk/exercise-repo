@@ -1,3 +1,3 @@
 # exercise-repo
 
-Edited again in master branch.
+Confict is resolved.
